@@ -1,5 +1,5 @@
 # Browser-Security
-# Task 7: identity and Remove suspicious Browser Extensions
+# Task 7: identitfy and Remove suspicious Browser Extensions
 
 Observation: 
 
